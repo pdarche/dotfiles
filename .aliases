@@ -1,0 +1,16 @@
+alias pjs='cd ~/Desktop/projects/'
+alias rc='cd ~/Desktop/career/recurse/recurse-center/'
+alias ydl='youtube-dl --extract-audio --audio-format mp3'
+
+# Recursively remove .DS_Store files
+alias cleanupds="find . -type f -name '*.DS_Store' -ls -delete"
+
+# Easier navigation: .., ..., ~ and -
+alias ..="cd .."
+alias cd..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+alias ~="cd ~" # `cd` is probably faster to type though
+alias -- -="cd -"
+

@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/pdarche/Desktop/career/recurse/recurse-center/todo'
+let g:netrw_dirhist_2='/Users/pdarche/Desktop/career/recurse/recurse-center/learning/operating-systems/notes'
+let g:netrw_dirhist_3='/Users/pdarche/Desktop/career/recurse/recurse-center/todo'
+let g:netrw_dirhist_4='/Users/pdarche/Desktop/projects/vwm/app/screens'
+let g:netrw_dirhist_5='/Users/pdarche/Desktop/career/recurse/recurse-center/learning/operating-systems'
+let g:netrw_dirhist_6='/Users/pdarche/Desktop/career/recurse/recurse-center/learning/operating-systems/notes'
+let g:netrw_dirhist_7='/Users/pdarche/Desktop/career/recurse/recurse-center/learning/operating-systems'
+let g:netrw_dirhist_8='/Users/pdarche/Desktop/career/recurse/recurse-center/learning/interview-prep'
+let g:netrw_dirhist_9='/Users/pdarche/.vim/plugged'

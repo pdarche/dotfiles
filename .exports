@@ -1,0 +1,10 @@
+# Miniconda
+export PATH="/Users/pdarche/miniconda3/bin:$PATH"
+
+# NVM
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+# Tell grep to highlight matches
+export GREP_OPTIONS='—color=auto'
